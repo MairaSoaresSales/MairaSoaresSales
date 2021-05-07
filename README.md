@@ -1,7 +1,6 @@
 <h1 align = "center"> Olá 👋, sou Mairã Soares Sales </h1>
 <h3 align = "center"> Desenvolvedora Front-end Jr </h3>
 
-<p align = "left "> <img src =" https://komarev.com/ghpvc/?username=mairasoaressales&label=Profile%20views&color=0e75b6&style=flat "alt =" mairasoaressales "/> </p>
 
 - 📫 Como entrar em contato comigo: **mairasoaressales@outlook.com**
 
