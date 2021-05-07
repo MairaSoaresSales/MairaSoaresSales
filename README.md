@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align = "center"> Olá 👋, sou Mairã Soares Sales </h1>
+<h3 align = "center"> Desenvolvedora Front-end Jr </h3>
 
-<!--
-**MairaSoaresSales/MairaSoaresSales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "left "> <img src =" https://komarev.com/ghpvc/?username=mairasoaressales&label=Profile%20views&color=0e75b6&style=flat "alt =" mairasoaressales "/> </p>
 
-Here are some ideas to get you started:
+- 📫 Como entrar em contato comigo: **mairasoaressales@outlook.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Conheça minhas experiências: **https://www.linkedin.com/in/mairasoaressales/**
+
+
+<h3 align = "left"> Suporte: </h3>
+
+
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=mairasoaressales&show_icons=true&locale=en&layout=compact" alt = "mairasoaressales" /> </p>
+
+<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=mairasoaressales&show_icons=true&locale=en" alt = "mairasoaressales" /> </p>
+
+<p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mairasoaressales&" alt = "mairasoaressales" /> </p>
