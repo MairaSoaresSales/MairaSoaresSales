@@ -1,6 +1,6 @@
-<h2> Hi, I'm Mairã Sales! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Mairã Sales!  <img src="https://media.giphy.com/media/QTaykox6rTJ5HeKXB1/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/Z9Pfqoa4fdnZayauCx/giphy.gif" width="230">
-<p><em>Developer Front-end Jr. <a href="https://www.laboratoria.la/">pela Laboratoria  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Developer Front-end Jr. pela <a href="https://www.laboratoria.la/"> Laboratoria</a>.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: Mairã Sales](https://img.shields.io/twitter/follow/MaiSoSales?style=social)](https://twitter.com/MaiSoSales)
@@ -13,8 +13,8 @@
 ```javascript
 const Mai = {
   pronouns: "she" | "her",
-  code:[Javascript, HTML, CSS],
-  tools:[React, Node, Styled-Components, Material Ui, Firebase],
+  code:[Javascript, HTML5, CSS3],
+  tools:[ReactJS, Styled-Components, Material Ui, Firebase],
   challenge: "I am doing the Imersão Dados - ALURA"
 }
 ```
