@@ -13,8 +13,8 @@
 ```javascript
 const Mai = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Styled-Components, Material Ui, Firebase],
+  code:[Javascript, HTML, CSS],
+  tools:[React, Node, Styled-Components, Material Ui, Firebase],
   challenge: "I am doing the Imersão Dados - ALURA"
 }
 ```
