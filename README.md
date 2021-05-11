@@ -3,9 +3,7 @@
 <p><em>Developer Front-end Jr. pela <a href="https://www.laboratoria.la/"> Laboratoria</a>.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Twitter: Mairã Sales](https://img.shields.io/twitter/follow/MaiSoSales?style=social)](https://twitter.com/MaiSoSales)
 [![Linkedin: Mairã Soares Sales](https://img.shields.io/badge/-mairasoaressales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mairasoaressales/)](https://www.linkedin.com/in/mairasoaressales)
-[![GitHub Thaiane](https://img.shields.io/github/followers/MairaSoaresSales?label=follow&style=social)](https://github.com/MairaSoaresSales)
 
 
 ### <img src="https://media.giphy.com/media/fvw6PmCEfbPw1ItlFQ/giphy.gif" width="50"> A little more about me...  
